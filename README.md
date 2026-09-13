@@ -3,6 +3,8 @@
 Data modelling and relational foundations for a short-video app with an
 LLM-powered recommendation agent. SQLite 3.44+.
 
+**GitHub Repo:** [ScrollSense_DA24B037](https://github.com/NeuralArch/ScrollSense_DA24B037.git)
+
 ## Files
 
 | File | Purpose |
